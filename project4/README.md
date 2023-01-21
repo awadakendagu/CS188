@@ -1,5 +1,9 @@
 # Project4
 
+[TOC]
+
+
+
 三种agent:
 
 **exact inference**

@@ -1,3 +1,7 @@
+# Project 3
+
+[TOC]
+
 ## P1 Value Iteration                      
 
 ```python
